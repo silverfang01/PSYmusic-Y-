@@ -137,3 +137,7 @@ Special thanks to these amazing projects/people which/who help power Yukki Music
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 - [CallsMusic Team](https://github.com/Callsmusic)
 - [TheHamkerCat](https://github.com/TheHamkerCat)
+    
+    
+   last but not the least i wanna thank me
+    i wanna thank me to be still alive !!!
