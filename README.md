@@ -1,4 +1,4 @@
-<h1 align= center><b>⭐️op >psysic<
+<h1 align= center><b>⭐️op >psy<
    op⭐️</b></h1>
 <h3 align = center> A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls </h3>
 
